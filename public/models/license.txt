@@ -1,0 +1,11 @@
+Model Information:
+* title:	EG 507
+* source:	https://sketchfab.com/3d-models/eg-507-b6f3166625ab42349e1bd4df8d6e8df9
+* author:	Jesper Landin (https://sketchfab.com/JesperLandin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "EG 507" (https://sketchfab.com/3d-models/eg-507-b6f3166625ab42349e1bd4df8d6e8df9) by Jesper Landin (https://sketchfab.com/JesperLandin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
